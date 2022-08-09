@@ -42,6 +42,6 @@ If you're interested in contributing to the Grafana project:
 - If you have a specific question, check out our [discussion forums](https://community.grafana.com/).
 - For general discussions, join us on the [official Slack](https://slack.grafana.com) team.
 
-## License
+## License - Testing
 
 Grafana is distributed under [AGPL-3.0-only](LICENSE). For Apache-2.0 exceptions, see [LICENSING.md](https://github.com/grafana/grafana/blob/HEAD/LICENSING.md).
